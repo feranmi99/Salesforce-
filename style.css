@@ -1,9 +1,6 @@
 .px-5 {
-    background: url("./bg1.jpg");
-    /* background-color: aqua; */
+    background: url("./skyp.jpg");
     width: 100%;
-    /* height: 490px; */
-    border: 2px solid rgb(10, 7, 7);
     background-repeat: no-repeat;
     background-size:100%;
 }
@@ -33,4 +30,28 @@
     height: 400px;
     background-repeat: no-repeat;
     background-size:100%;
+    padding-top: 70px;
+}
+li {
+    font-size: 13px;
+}
+#king {
+   float: right; 
+}
+#for {
+    background: url(./hill.png);
+    height: 450px;
+    background-repeat: no-repeat;
+    background-size:auto;
+    /* border: 3px solid red; */
+    margin-bottom: 30px;
+}
+.yoc {
+    font-size: 14px;
+    color: white;
+}
+#none {
+    font-size: 14px;
+    color: blue;
+    padding-left: 20px;
 }
